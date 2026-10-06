@@ -1,0 +1,352 @@
+{
+  "papers": [
+    {
+      "id": "cet4-2025-06-1",
+      "file": "library/papers/cet4-2025-06-1.json",
+      "questions": 57,
+      "audioVerified": false
+    }
+  ],
+  "vocabulary": {
+    "count": 4544,
+    "rawCount": 7508,
+    "duplicates": 2964,
+    "file": "library/words.json",
+    "source": {
+      "repo": "KyleBing/english-vocabulary",
+      "path": "full_line_jsonl/sentence/正序/四级.jsonl",
+      "revision": "c4c6c80879ff17d7025c28fb853a4991c8e6be6a",
+      "url": "https://github.com/KyleBing/english-vocabulary/blob/c4c6c80879ff17d7025c28fb853a4991c8e6be6a/full_line_jsonl/sentence/%E6%AD%A3%E5%BA%8F/%E5%9B%9B%E7%BA%A7.jsonl",
+      "license": "仓库代码 BSD-3-Clause；上游数据再传播权未确认，仅本地个人学习"
+    },
+    "sha256": "e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98",
+    "missingPhonetic": 24,
+    "missingExample": 94,
+    "fileSha256": "f1682339ae3d03d5d1da23596a7a88645925c5b1dcb078fd968706b21eb1fcc4"
+  },
+  "report": {
+    "checkedAt": "2026-10-06T10:36:34.978Z",
+    "vocabulary": {
+      "count": 4544,
+      "rawCount": 7508,
+      "duplicates": 2964,
+      "file": "/__local/words.json",
+      "source": {
+        "repo": "KyleBing/english-vocabulary",
+        "path": "full_line_jsonl/sentence/正序/四级.jsonl",
+        "revision": "c4c6c80879ff17d7025c28fb853a4991c8e6be6a",
+        "url": "https://github.com/KyleBing/english-vocabulary/blob/c4c6c80879ff17d7025c28fb853a4991c8e6be6a/full_line_jsonl/sentence/%E6%AD%A3%E5%BA%8F/%E5%9B%9B%E7%BA%A7.jsonl",
+        "license": "仓库代码 BSD-3-Clause；上游数据再传播权未确认，仅本地个人学习"
+      },
+      "sha256": "e70511755f8da283ce25d37dd0662b0db35180aad0735c0767eedb37b8508e98",
+      "missingPhonetic": 24,
+      "missingExample": 94,
+      "fileSha256": "f1682339ae3d03d5d1da23596a7a88645925c5b1dcb078fd968706b21eb1fcc4"
+    },
+    "categories": {
+      "news": 7,
+      "conversation": 8,
+      "listening": 10,
+      "cloze": 10,
+      "matching": 10,
+      "reading": 10,
+      "writing": 1,
+      "translation": 1
+    },
+    "directoryPapers": 69,
+    "onlinePapers": 1,
+    "verifiedAudio": 0,
+    "audioCandidates": 1,
+    "problems": [],
+    "terms": [
+      {
+        "term": "2016-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2016-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2017-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2017-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2018-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2018-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2019-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2019-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2020-07",
+        "directoryPapers": 1,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2020-09",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2020-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2021-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2021-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2022-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2022-09",
+        "directoryPapers": 2,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2022-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2023-03",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2023-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2023-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2024-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2024-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2025-06",
+        "directoryPapers": 3,
+        "onlinePapers": 1,
+        "questions": 57,
+        "objective": 55,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2025-12",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      },
+      {
+        "term": "2026-06",
+        "directoryPapers": 3,
+        "onlinePapers": 0,
+        "questions": 0,
+        "objective": 0,
+        "verifiedAudio": 0,
+        "gaps": [
+          "部分套卷未提取核对",
+          "录音关联待核对"
+        ]
+      }
+    ]
+  }
+}
